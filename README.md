@@ -5,4 +5,6 @@ A detail file including the record of the books along with all the attributes li
 The program has a function of computing how many books are in the library.<br>
 The LMS has a function computing how many books of specific domain has been chosen by the applicant. <br>
 <br>Concepts utilised in this program are:<br>
-<br>Abstraction<br>Encapsulation<br>Inheritance<br>Polymorphism<br>Operator Overloading<br>File handling(Text and Binary both).
+<br>Abstraction<br>Encapsulation<br>Inheritance<br>Polymorphism<br>Operator Overloading<br>File handling(Text and Binary both).<br>
+
+<b>Note: </b>UML class diafram of code is also uploaded in repository
